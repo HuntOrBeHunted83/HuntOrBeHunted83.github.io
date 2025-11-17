@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Academia</title>
+    <link>//localhost:1313/authors/</link>
+    <description>Recent content in Authors on Academia</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/admin/</guid>
+      <description>&lt;p&gt;Ishank Ramnath is an 8th-grade student at BASIS Cedar Park with a strong passion for video games, coding, and mathematics. He is an avid reader who is currently enjoying Brave New World by Aldous Huxley, a novel about futuristic society shaped by technological advancements.&lt;/p&gt;
+&lt;p&gt;Also, he is an active member of the Schoolhouse.org tutoring program, where he helps students of all ages and skill levels across a variety of subjects. Ishank has helped over a 150 students ranging form 22 different contries, in his journey tutoring.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>//localhost:1313/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
